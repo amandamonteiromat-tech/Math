@@ -1,0 +1,5 @@
+{
+  "name": "MathMaster Gamified",
+  "description": "Uma plataforma de quiz matemático gamificada onde professores podem criar questões (manualmente ou via IA), acompanhar o desempenho dos alunos e visualizar um ranking competitivo.",
+  "requestFramePermissions": []
+}
